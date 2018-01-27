@@ -34,7 +34,7 @@
 3. Make sure you restart xampp after following step 1 & 2.
 4. Import database "project5.6" from sql file present in sql folder.
 5. Get your CurrencyLayer API Key from [here](https://currencylayer.com/) and replace it in *path/to/project/public/dist/js/page.js* line number 1439. This is for receiving live commodity rates in dashboard. Don't forget to clear cache of browser after editing.
-6. Enter "project.dev" in browser, make sure your XAMPP is Active. 
+6. Enter "project.dev" in browser to visit the app, make sure your XAMPP(Apache, MySQL) is running. 
 7. Done
 
 ### Note
